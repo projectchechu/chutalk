@@ -1,0 +1,16 @@
+ChuTalk
+© 2026 Equipo ChuTalk · Unitel Formación (Toledo, Castilla-La Mancha).
+Todos los derechos reservados.
+
+ChuTalk es un programa en desarrollo hecho por un equipo de estudiantes en prácticas de
+Unitel Formación. Todavía no tiene una licencia de uso: no se permite copiarlo, modificarlo ni
+distribuirlo sin permiso de sus autores. Si quieres usarlo o cambiarlo, avísanos antes en
+https://github.com/projectchechu/chutalk
+
+Partes de terceros, con su propia licencia:
+- Pictogramas: Sergio Palao. Origen: ARASAAC (arasaac.org). Licencia CC BY-NC-SA.
+  Propiedad: Gobierno de Aragón (España).
+- Voz natural: Piper (rhasspy/piper) y el modelo es_ES-davefx-medium, con su licencia.
+- Reconocimiento de voz: Vosk (alphacephei), con su licencia.
+- Reconocimiento de manos y cara: MediaPipe (Google), licencia Apache 2.0.
+- onnxruntime-web (Microsoft), licencia MIT.
