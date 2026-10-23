@@ -1,0 +1,21 @@
+ChuTalk
+© 2026 Equipo de Prácticas Unitel - ChuTalk. Todos los derechos reservados.
+
+ChuTalk es propiedad del Equipo de Prácticas Unitel - ChuTalk y está protegido por derechos de autor.
+
+Solo se puede usar con permiso del equipo y con el código de acceso que se entrega. No se permite
+copiarlo, modificarlo, publicarlo, compartirlo ni venderlo, ni extraer sus modelos, grabaciones o
+dibujos, ni usar su nombre o logotipo, sin autorización por escrito. Para pedir permiso:
+cchutalk@gmail.com
+
+ChuTalk ayuda a comunicarse, pero no es un producto sanitario ni un servicio de emergencias.
+
+Hecho en las prácticas de Unitel Formación (Toledo, Castilla-La Mancha).
+
+Partes de terceros, con su propia licencia:
+- Pictogramas: Sergio Palao. Origen: ARASAAC (arasaac.org). Licencia CC BY-NC-SA.
+  Propiedad: Gobierno de Aragón (España).
+- Voz natural: Piper (rhasspy/piper). Voz «sharvard»: modelo es_ES-sharvard-medium, entrenado con el corpus Sharvard (Universidad de Edimburgo; Aubanel y otros), licencia CC BY 3.0 (creativecommons.org/licenses/by/3.0). Voz «davefx»: modelo es_ES-davefx-medium, datos con licencia CC0.
+- Reconocimiento de voz: Vosk (alphacephei), con su licencia.
+- Reconocimiento de manos y cara: MediaPipe (Google), licencia Apache 2.0.
+- onnxruntime-web (Microsoft), licencia MIT.
